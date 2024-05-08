@@ -8,6 +8,7 @@ I specialize in extracting meaningful insights from raw data. I particularly enj
 •📄 Google sheets
 •📊 MS-powerBI
 •📑 MS-Excel
+•📄 Spreadsheets
 
 
 
