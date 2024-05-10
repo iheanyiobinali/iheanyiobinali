@@ -1,4 +1,4 @@
- ![img](https://github.com/iheanyiobinali/iheanyiobinali/blob/main/test.png)
+ ![img](https://github.com/iheanyiobinali/iheanyiobinali/blob/main/banner2.png)
 # Hi there 👋, I'm Iheanyi Obinali<br/>
 I specialize in extracting meaningful insights from raw data. I particularly enjoy working with spreadsheets and creating visuals using tools like Google Sheets, Excel and Microsoft Power-BI. Currently, I'm expanding my knowledge by learning about databases and their practical applications.
 
