@@ -1,4 +1,4 @@
-![banner}(https://github.com/iheanyiobinali/iheanyiobinali/blob/main/Banner.png)
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 # Hi there 👋, I'm Iheanyi Obinali
 #### I'm a Data Analyst,
