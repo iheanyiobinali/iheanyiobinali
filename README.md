@@ -1,4 +1,4 @@
-https://github.com/iheanyiobinali/iheanyiobinali/blob/main/Banner.png
+([link}(https://github.com/iheanyiobinali/iheanyiobinali/blob/main/Banner.png))
 
 # Hi there 👋, I'm Iheanyi Obinali
 #### I'm a Data Analyst,
